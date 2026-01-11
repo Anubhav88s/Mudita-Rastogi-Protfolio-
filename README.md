@@ -3,19 +3,19 @@
 > **Note:** This portfolio was developed by [Anubhav Raj Singh](https://github.com/Anubhav88s) for **Mudita Rastogi** as a freelance project.
 
 ### Hero Section
-![Hero Section](./hero.png)
+![Hero Section](./images/hero.png)
 
 ### Experience Section
-![Experience Section](./experience.png)
+![Experience Section](./images/experience.png)
 
 ### Projects Section
-![Projects Section](./projects.png)
+![Projects Section](./images/projects.png)
 
 ### Skills Section
-![Skills Section](./skills.png)
+![Skills Section](./images/skills.png)
 
 ### Contact Section
-![Contact Section](./contact.png)
+![Contact Section](./images/contact.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
