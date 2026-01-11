@@ -1,6 +1,6 @@
 # Analyst Portfolio
 
-> **Note:** This portfolio was developed by me for **Mudita Rastogi** as a freelance project.
+> **Note:** This portfolio was developed by [Anubhav Raj Singh](https://github.com/Anubhav88s) for **Mudita Rastogi** as a freelance project.
 
 ![Analyst Portfolio Screenshot](./portfolio-screenshot.webp)
 
