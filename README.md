@@ -2,7 +2,20 @@
 
 > **Note:** This portfolio was developed by [Anubhav Raj Singh](https://github.com/Anubhav88s) for **Mudita Rastogi** as a freelance project.
 
-![Analyst Portfolio Screenshot](./portfolio-screenshot.webp)
+### Hero Section
+![Hero Section](./hero.png)
+
+### Experience Section
+![Experience Section](./experience.png)
+
+### Projects Section
+![Projects Section](./projects.png)
+
+### Skills Section
+![Skills Section](./skills.png)
+
+### Contact Section
+![Contact Section](./contact.png)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
